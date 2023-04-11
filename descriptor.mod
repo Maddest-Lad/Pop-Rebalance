@@ -1,9 +1,10 @@
-version="1.0"
+version="1.1"
 tags={
 	"Balance"
 	"Gameplay"
 	"Fixes"
 }
 name="Pop Output-Growth Rebalance"
-supported_version="3.6.1"
 picture="thumbnail.jpg"
+supported_version="3.7.*"
+remote_file_id="2911011214"

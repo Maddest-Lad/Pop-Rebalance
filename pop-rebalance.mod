@@ -1,4 +1,4 @@
-version="1.0"
+version="1.1"
 tags={
 	"Balance"
 	"Gameplay"
@@ -6,5 +6,5 @@ tags={
 }
 name="Pop Output-Growth Rebalance"
 picture="thumbnail.jpg"
-supported_version="3.6.1"
-path="C:/Users/samha/Documents/Paradox Interactive/Stellaris/mod/pop-rebalance"
+supported_version="3.7.*"
+path="C:\Users\samha\Documents\Paradox Interactive\Stellaris\mod\pop-rebalance"
