@@ -12,7 +12,8 @@ pr_tech_repeatable_pop_output = {
 	mod_weight_if_group_picked = { repeatable = 0.01 }
 	modifier = { 
 		pop_growth_speed = -0.05
-		planet_jobs_produces_mult = 0.10
+		pop_assembly_speed = -0.05
+		planet_pop_assembly_mult
 	}
 }
 
